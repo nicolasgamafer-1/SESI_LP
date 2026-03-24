@@ -21,7 +21,7 @@ git clone <link-do-repositorio>
 
 # 👌 Adicionar arquivos ao stage
 ````
-git add .
+git add 
 ````
 
 
@@ -31,21 +31,18 @@ git status
 ````
 
 
-# 👌 Commit com descrição
+# 👌 Commit descreve um comentario para lançar 
 ````
 git commit -m "descrição"
 ````
-
+# 👌Computador pro github
 ````
 git push
 ````
-
-
-(computador pro github)
+# 👌Github pro computador
 ````
 git pull
 ````
 
 
 
-(github pro computador)

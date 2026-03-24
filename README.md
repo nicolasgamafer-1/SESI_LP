@@ -6,8 +6,6 @@ Disciplina de logística de programação
 git config --list
 ````
 
-
-
 git config --global user.name "xxxxx"
 ````
 
@@ -18,7 +16,6 @@ git config --global user.email "xxxx@gmail.com"
 
 git clone <link-do-repositorio>
 ````
-
 # 👌 Adicionar arquivos ao stage
 
 git add .

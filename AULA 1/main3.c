@@ -18,11 +18,11 @@ int main() {
 	jaguara=resultado/3;
 	
 	if (jaguara >= 7.0) {
-		printf("%2.f = aprovado", jaguara);
+		printf("%.2f = aprovado", jaguara);
 	}else if (jaguara <= 6.9){
-	    printf("%2.f = recuperação", jaguara);    
+	    printf("%.2f = recuperação", jaguara);    
 	}else if (jaguara <= 2.9){
-	    printf ("%2.i = reprovado",jaguara);
+	    printf ("%.2f = reprovado",jaguara);
 	}
 	
 	

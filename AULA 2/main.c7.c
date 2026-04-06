@@ -14,7 +14,7 @@ int main() {
     if (t < b + c & b < t + c & c < t + b) {
         if (t == b & b == c) {
             printf("Triângulo Equilátero");
-        } else if (t == b | b == c | t == c) {
+        } else if (t == b || b == c || t == c) {
             printf("Triângulo Isósceles");
         } else {
             printf("Triângulo Escaleno");

@@ -21,6 +21,7 @@ int main() {
 	printf("media da turma: %.1f\n", media);
 	
 
+<<<<<<< HEAD
 	printf("total de alunos acima media: %i", total);
 	
 	while(x<10){
@@ -30,3 +31,8 @@ int main() {
 	    x++;
 	}
 	}
+=======
+    printf("média: %.1f\n", soma);
+
+}
+>>>>>>> 842024df4765bf05587b90b7bc6c21ba544018f4
